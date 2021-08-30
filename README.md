@@ -22,4 +22,3 @@
 
   ![Snake animation](https://github.com/Xch4rt/Xch4rt/blob/output/github-contribution-grid-snake.svg)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Xch4rt=willianrod)](https://github.com/anuraghazra/github-readme-stats)
