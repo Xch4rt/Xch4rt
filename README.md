@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-
+<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/Xch4rt/badges/large" alt="codewars badge large" /></a>
 
 <div>
   <a href="https://github.com/Xch4rt"/>
