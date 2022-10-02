@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xch4rt</h1>
 <h3 align="center">Backend Developer</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xch4rt&theme=github_dark)
 <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/Xch4rt/badges/large" alt="codewars badge large" /></a>
 
+
+  
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xch4rt&show_icons=true&theme=dark&count_private=true" align="center"/>
 
@@ -11,7 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xch4rt&layout=compact&theme=dark" align="center" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xch4rt&theme=github_dark"/>
+</div>
+
+
+<!--<h3 align="left">Connect with me:</h3>-->
 
 
 
