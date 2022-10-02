@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xch4rt</h1>
 <h3 align="center">Backend Developer</h3>
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/Xch4rt/github-profile-summary-cards)
 
 <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/Xch4rt/badges/large" alt="codewars badge large" /></a>
 
