@@ -50,4 +50,3 @@
 
 ![Snake animation](https://github.com/Xch4rt/Xch4rt/blob/output/github-contribution-grid-snake.svg)
 
-](url)
