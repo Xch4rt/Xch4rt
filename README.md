@@ -38,6 +38,11 @@
     <img align="center" alt="Xch4rt-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Xch4rt-Express" height="40" width="50" src="https://user-images.githubusercontent.com/35347784/193438101-18258d31-e489-47ef-8a61-e8d1881b4b7d.svg"/>
      <img align="center" alt="Xch4rt-Rails" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+            <img align="center" alt="Xch4rt-Docker" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+            <img align="center" alt="Xch4rt-SpringBoot" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+            <img align="center" alt="Xch4rt-NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
+          
 </div>
 
 
@@ -45,3 +50,4 @@
 
 ![Snake animation](https://github.com/Xch4rt/Xch4rt/blob/output/github-contribution-grid-snake.svg)
 
+](url)
